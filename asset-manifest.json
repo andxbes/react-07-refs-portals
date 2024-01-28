@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-07-refs-portals/static/css/main.19e221c4.css",
+    "main.js": "/react-07-refs-portals/static/js/main.0dff620a.js",
+    "index.html": "/react-07-refs-portals/index.html",
+    "main.19e221c4.css.map": "/react-07-refs-portals/static/css/main.19e221c4.css.map",
+    "main.0dff620a.js.map": "/react-07-refs-portals/static/js/main.0dff620a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e221c4.css",
+    "static/js/main.0dff620a.js"
+  ]
+}
