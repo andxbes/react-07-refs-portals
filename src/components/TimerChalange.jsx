@@ -38,7 +38,6 @@ export default function TimerChalange({ title, targetTime }) {
 
             <section className="challenge">
                 <h2>{title}</h2>
-                {timerIsActive && <p>You lost</p>}
                 <p className="chalange-time">
                     {targetTime} second{targetTime > 1 ? 's' : ''}
                 </p>
