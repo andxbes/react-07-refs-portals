@@ -2,6 +2,8 @@ https://andxbes.github.io/react-07-refs-portals
 
 https://github.com/gitname/react-gh-pages
 
+npm run deploy
+
 
 # Getting Started with Create React App
 

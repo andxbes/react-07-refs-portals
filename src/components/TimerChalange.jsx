@@ -9,7 +9,6 @@ export default function TimerChalange({ title, targetTime }) {
     const timerIsActive = timeRemaining > 0 && timeRemaining < targetTime * 1000;
 
     if (timeRemaining <= 0) {
-        // setTimeRemaining(targetTime * 1000);
         dialog.current.open();
         clearInterval(timer.current);
     }
